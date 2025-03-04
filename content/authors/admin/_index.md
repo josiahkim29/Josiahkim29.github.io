@@ -24,27 +24,28 @@ role: AI Engineer, Software Engineer, Project Management
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: African Institute for Mathematical Sciences(AIMS)-South Africa
+    url: https://www.aims.ac.za
+    
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:josiah@aims.ac.za'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Josiahk_k
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/josiahk_k/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/josiahkim29
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/josiah-kimani-2a059319b/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-5840-7796
 
 interests:
   - Artificial Intelligence
@@ -55,60 +56,75 @@ interests:
   - Software Development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  # - area: PhD Artificial Intelligence
+  #   institution: Stanford University
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com'
+  - area: Msc Artificial Intelligence for Sciences
+    institution: Stellenbosch University & African Institute for Mathematical Sciences(AIMS) South Africa
+    date_start: 2024-09-01
+    date_end: 2025-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: Ongoing
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Introduction to Machine Learning
+      - Bayesian Statistics
+      - Computer Vision
+      - Applied Machine Learning At Scale
+      - Mathematical Problem Solving
+      - Reinforcement Learning
+      - Deep Learning for Ecology
+      - Bayesian Modelling and Deep Generative Surrogates for Epidemiology
+      - Fluid Dynamics
+      - AI for Climate Change
+      - CUDA Programming for GPUs
+      - AI for Radio Astronomy
+      - Deep Generative AI
+  - area: BSc Mathematical Sciences with I.T.
+    institution: Maseno University, Kisumu, Kenya
+    date_start: 2016-08-15
+    date_end: 2021-04-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
+      Class: First-class Honours
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Pure Mathematics
+      - Applied Mathematics
+      - Information Technology
+      - Statistics
+      
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Program Assistant, Leadership Development Program(LDP)
+    company_name: Emerging Leaders Foundation-Africa
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-09-01
+    date_end: 2024-08-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Implement and coordinate projects and activities(iLEAD Fellowship, NOW US! Awards & St Andrews Turi Leadership Award)
+      - Design and develope concept notes and proposals for proposed projects and initiatives within the LDP department.
+      - Develope relevant programmatic content for the LDP department and other departments.
+      - Design and support development of I.T. Infrastructure
+
+  - position: Full-stack Software Developer
+    company_name: Smart People Africa Limited Company
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-11-01
+    date_end: 2023-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing, implementing and upgrading the PickPay Enterprise Resource Planning (E.R.P.) Project
+      - Organizing and training users of the Enterprise Resource Planning Water utility system.
+      - Establishing Standard Operating Procedures (S.O.P.) for better teamwork, order and quality control.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -117,28 +133,44 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: Javascript
+        description: ''
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: SQL/PSQL
         description: ''
-        percent: 40
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Running
+        description: ''
+        percent: 60
+        icon: person-simple-walk
       - name: Hiking
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Music
         description: ''
-        percent: 100
-        icon: cat
+        percent: 60
+        icon: person-simple-walk
+      - name: Story telling
+        description: ''
+        percent: 60
+        icon: person-simple-walk
       - name: Photography
         description: ''
         percent: 80
@@ -147,10 +179,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Kiswahili
+    percent: 100
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -186,4 +217,10 @@ awards:
 
 ## About Me
 
-Josiah Kimani is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Josiah is a passionate advocate for the intersection of mathematics, technology, and artificial intelligence. His research focuses on leveraging AI for climate prediction and weather forecasting, with a particular interest in cutting-edge developments in nowcasting and forecasting to address urgent climate challenges.
+
+A natural leader, Josiah is deeply engaged in discussions on techno-democracy and governance, exploring how technology can drive social good and improve service delivery across Kenya and Africa. He is committed to fostering innovation that empowers communities and promotes sustainable development.
+
+Driven by a vision to become an AI Scientist and a leader in Africa, Josiah is dedicated to advancing policies that ensure ethical and responsible AI research, deployment and use.
+
+Outside of his professional pursuits, Josiah enjoys mentoring peers, story telling, and staying active through running, swimming, music, and hiking.

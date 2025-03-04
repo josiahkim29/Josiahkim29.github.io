@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Josiah is a passionate advocate for the intersection of mathematics, technology, and artificial intelligence. His research focuses on leveraging AI for climate prediction and weather forecasting, with a particular interest in cutting-edge developments in nowcasting and forecasting to address urgent climate challenges.
         
         Please reach out to collaborate 😃
     design:
