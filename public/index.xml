@@ -278,7 +278,7 @@
 
 
 
-&lt;div id=&#34;chart-854163972&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-813762945&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +296,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-854163972&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-813762945&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -911,7 +911,7 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
+      <title>PiggyCast: Improving Weather Prediction Accuracy through a Stacking-Based Ensemble AI Approach</title>
       <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint/</guid>
@@ -948,7 +948,7 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>An example conference paper</title>
+      <title>An example conference paper!</title>
       <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/conference-paper/</guid>
