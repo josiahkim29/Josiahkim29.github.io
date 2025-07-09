@@ -1,4 +1,4 @@
-# [Meet Josiah K. Kimani](https://github.com/HugoBlox/theme-academic-cv)
+# [Meet Josiah K. Kimani](https://josiahkim29.github.io/)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 
