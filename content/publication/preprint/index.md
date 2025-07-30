@@ -1,7 +1,9 @@
 ---
 title: "PiggyCast: Improving Weather Prediction Accuracy through a Stacking-Based Ensemble AI Approach"
+
 authors:
-- admin
+  - admin
+  - Josiah K. Kimani
 date: "2025-07-09T00:00:00Z"
 doi: ""
 

@@ -65,16 +65,16 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  - area: Msc Artificial Intelligence for Sciences
+  - area: MSc Mathematical Sciences (Specialising in Artificial Intelligence for Science)
     institution: Stellenbosch University & African Institute for Mathematical Sciences(AIMS) South Africa
     date_start: 2024-09-01
     date_end: 2025-07-31
     summary: |
-      GPA: Ongoing
+      GPA: Cum Laude (Distinction in both Coursework and Dissertation)
 
       Courses included:
       - Introduction to Machine Learning
-      - Bayesian Statistics
+      - Bayesian Inference and Reasoning
       - Computer Vision
       - Applied Machine Learning At Scale
       - Mathematical Problem Solving
@@ -84,8 +84,13 @@ education:
       - Fluid Dynamics
       - AI for Climate Change
       - CUDA Programming for GPUs
-      - AI for Radio Astronomy
-      - Deep Generative AI
+      - Principles of Imaging for Radio Astronomy
+      - Deep Generative Models and Generative AI
+      - Modern Statistics and Machine Learning for Population Health in Africa
+      - Selected Topics in AI in Science
+      - The Science and Engineering of Large Language Models
+
+      Master's Thesis: PiggyCast: "Improving Weather Prediction Accuracy through a Stacking-Based Ensemble AI Approach"
   - area: BSc Mathematical Sciences with I.T.
     institution: Maseno University, Kisumu, Kenya
     date_start: 2016-08-15
@@ -99,6 +104,7 @@ education:
       - Applied Mathematics
       - Information Technology
       - Statistics
+      - Actuarial Science
       
 work:
   - position: Program Assistant, Leadership Development Program(LDP)
@@ -131,15 +137,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python (Jax, TensorFlow, Pytorch)
         description: ''
         percent: 90
         icon: code-bracket
-      - name: Java
+      - name: Java (SpringMVC, SpringBoot)
         description: ''
         percent: 90
         icon: code-bracket
-      - name: Javascript
+      - name: Javascript(EXTjs, Reactjs)
         description: ''
         percent: 90
         icon: code-bracket
@@ -147,7 +153,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL/PSQL
+      - name: SQL(MySQL, PGSQL)
         description: ''
         percent: 90
         icon: circle-stack
@@ -171,7 +177,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Photography
+      - name: Community Engagement
         description: ''
         percent: 80
         icon: camera
