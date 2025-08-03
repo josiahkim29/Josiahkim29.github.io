@@ -8,6 +8,8 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This project aims to develop a movie Recommender system, using the Alternating Least Squares (ALS) matrix factor- ization algorithm, capable of delivering personalized rec- ommendations to users despite the amount of user data available to us through implicit or explicit feedback.
+
+Specifically, the system should accurately predict a user’s rating for a given movie and recommend movies they are likely to enjoy while entertaining new movies different from what they used to but would love.
 
 <!--more-->
