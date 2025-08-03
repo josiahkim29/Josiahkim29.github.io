@@ -1,7 +1,7 @@
 ---
 title: ML At Scale
 date: 2024-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/josiahkim29/mlAatScale
 tags:
   - Hugo
   - Wowchemy
