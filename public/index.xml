@@ -110,7 +110,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <link>http://localhost:1313/project/recommendersystem/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/recommendersystem/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project aims to develop a movie Recommender system, using the Alternating Least Squares (ALS) matrix factorization algorithm, capable of delivering personalized recommendations to users despite the amount of user data available to us through implicit or explicit feedback..&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -350,7 +350,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-634725891&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-275341869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -368,7 +368,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-634725891&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-275341869&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
