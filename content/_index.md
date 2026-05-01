@@ -20,7 +20,7 @@ sections:
         image:
           filename: hero-background.jpg
           filters:
-            brightness: 0.9
+            brightness: 0.9 
           size: cover
           position: center
           parallax: false
