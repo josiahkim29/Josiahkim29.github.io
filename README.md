@@ -14,10 +14,11 @@ Beyond research, I am passionate about techno-democracy, responsible AI governan
 
 - **Bio** — who I am, what I do, and how to reach me
 - **Experience** — my professional and academic background
+- **Leadership** — community and civic roles I have held
 - **Projects** — selected technical and research projects
 - **Publications** — papers and conference contributions
 - **Talks** — events where I have spoken
-- **Leadership** — community and civic roles I have held
+
 
 ## Tech Stack
 
