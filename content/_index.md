@@ -103,51 +103,15 @@ sections:
 
         <!-- EXPLORE SECTIONS -->
         <div style="margin-bottom:5rem;">
-          <p style="font-size:0.8rem; font-weight:700; color:#10b981; text-transform:uppercase; letter-spacing:0.14em; margin:0 0 0.6rem;">Explore</p>
-          <h2 style="font-size:1.8rem; font-weight:800; margin:0 0 1.75rem;">There is more to see.</h2>
-          <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(190px, 1fr)); gap:1.25rem;">
-
-            <a class="home-nav-card home-nav-blue" href="/experience/"
-               style="background:linear-gradient(135deg,#eff6ff,#dbeafe); border-top:4px solid #3b82f6; box-shadow:0 3px 12px rgba(59,130,246,0.1);">
-              <span style="font-size:2rem; margin-bottom:0.75rem;">💼</span>
-              <span style="font-size:1rem; font-weight:700; color:#1e3a5f; margin-bottom:0.4rem;">Experience</span>
-              <span style="font-size:0.82rem; color:#475569; line-height:1.6;">Work history, education, skills, and awards.</span>
-              <span style="font-size:0.78rem; font-weight:700; color:#3b82f6; margin-top:1rem;">View →</span>
-            </a>
-
-            <a class="home-nav-card home-nav-green" href="/projects/"
-               style="background:linear-gradient(135deg,#f0fdf4,#dcfce7); border-top:4px solid #10b981; box-shadow:0 3px 12px rgba(16,185,129,0.1);">
-              <span style="font-size:2rem; margin-bottom:0.75rem;">🛠️</span>
-              <span style="font-size:1rem; font-weight:700; color:#134e4a; margin-bottom:0.4rem;">Projects</span>
-              <span style="font-size:0.82rem; color:#475569; line-height:1.6;">Research projects and open-source tools.</span>
-              <span style="font-size:0.78rem; font-weight:700; color:#10b981; margin-top:1rem;">View →</span>
-            </a>
-
-            <a class="home-nav-card home-nav-purple" href="/publications/"
-               style="background:linear-gradient(135deg,#faf5ff,#ede9fe); border-top:4px solid #8b5cf6; box-shadow:0 3px 12px rgba(139,92,246,0.1);">
-              <span style="font-size:2rem; margin-bottom:0.75rem;">📄</span>
-              <span style="font-size:1rem; font-weight:700; color:#2d1b69; margin-bottom:0.4rem;">Publications</span>
-              <span style="font-size:0.82rem; color:#475569; line-height:1.6;">Papers on AI, climate, and education.</span>
-              <span style="font-size:0.78rem; font-weight:700; color:#8b5cf6; margin-top:1rem;">View →</span>
-            </a>
-
-            <a class="home-nav-card home-nav-orange" href="/talks/"
-               style="background:linear-gradient(135deg,#fff7ed,#fed7aa); border-top:4px solid #f97316; box-shadow:0 3px 12px rgba(249,115,22,0.1);">
-              <span style="font-size:2rem; margin-bottom:0.75rem;">🎤</span>
-              <span style="font-size:1rem; font-weight:700; color:#3b1f00; margin-bottom:0.4rem;">Talks</span>
-              <span style="font-size:0.82rem; color:#475569; line-height:1.6;">Public talks, panels, and science communication.</span>
-              <span style="font-size:0.78rem; font-weight:700; color:#f97316; margin-top:1rem;">View →</span>
-            </a>
-
-            <a class="home-nav-card home-nav-rose" href="/leadership/"
-               style="background:linear-gradient(135deg,#fff1f2,#ffe4e6); border-top:4px solid #f43f5e; box-shadow:0 3px 12px rgba(244,63,94,0.1);">
-              <span style="font-size:2rem; margin-bottom:0.75rem;">🤝</span>
-              <span style="font-size:1rem; font-weight:700; color:#2d1b1b; margin-bottom:0.4rem;">Leadership</span>
-              <span style="font-size:0.82rem; color:#475569; line-height:1.6;">Community roles, civic service, and governance.</span>
-              <span style="font-size:0.78rem; font-weight:700; color:#f43f5e; margin-top:1rem;">View →</span>
-            </a>
-
-          </div>
+        <p style="font-size:0.8rem; font-weight:700; color:#10b981; text-transform:uppercase; letter-spacing:0.14em; margin:0 0 0.6rem;">Explore</p>
+        <h2 style="font-size:1.8rem; font-weight:800; margin:0 0 1.75rem;">There is more to see.</h2>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(190px, 1fr)); gap:1.25rem;">
+        <a class="home-nav-card home-nav-blue" href="/experience/" style="background:linear-gradient(135deg,#eff6ff,#dbeafe); border-top:4px solid #3b82f6; box-shadow:0 3px 12px rgba(59,130,246,0.1);"><span style="font-size:2rem; display:block; margin-bottom:0.75rem;">💼</span><span style="font-size:1rem; font-weight:700; color:#1e3a5f; display:block; margin-bottom:0.4rem;">Experience</span><span style="font-size:0.82rem; color:#475569; line-height:1.6; display:block;">Work history, education, skills, and awards.</span><span style="font-size:0.78rem; font-weight:700; color:#3b82f6; display:block; margin-top:1rem;">View →</span></a>
+        <a class="home-nav-card home-nav-green" href="/projects/" style="background:linear-gradient(135deg,#f0fdf4,#dcfce7); border-top:4px solid #10b981; box-shadow:0 3px 12px rgba(16,185,129,0.1);"><span style="font-size:2rem; display:block; margin-bottom:0.75rem;">🛠️</span><span style="font-size:1rem; font-weight:700; color:#134e4a; display:block; margin-bottom:0.4rem;">Projects</span><span style="font-size:0.82rem; color:#475569; line-height:1.6; display:block;">Research projects and open-source tools.</span><span style="font-size:0.78rem; font-weight:700; color:#10b981; display:block; margin-top:1rem;">View →</span></a>
+        <a class="home-nav-card home-nav-purple" href="/publications/" style="background:linear-gradient(135deg,#faf5ff,#ede9fe); border-top:4px solid #8b5cf6; box-shadow:0 3px 12px rgba(139,92,246,0.1);"><span style="font-size:2rem; display:block; margin-bottom:0.75rem;">📄</span><span style="font-size:1rem; font-weight:700; color:#2d1b69; display:block; margin-bottom:0.4rem;">Publications</span><span style="font-size:0.82rem; color:#475569; line-height:1.6; display:block;">Papers on AI, climate, and education.</span><span style="font-size:0.78rem; font-weight:700; color:#8b5cf6; display:block; margin-top:1rem;">View →</span></a>
+        <a class="home-nav-card home-nav-orange" href="/talks/" style="background:linear-gradient(135deg,#fff7ed,#fed7aa); border-top:4px solid #f97316; box-shadow:0 3px 12px rgba(249,115,22,0.1);"><span style="font-size:2rem; display:block; margin-bottom:0.75rem;">🎤</span><span style="font-size:1rem; font-weight:700; color:#3b1f00; display:block; margin-bottom:0.4rem;">Talks</span><span style="font-size:0.82rem; color:#475569; line-height:1.6; display:block;">Public talks, panels, and science communication.</span><span style="font-size:0.78rem; font-weight:700; color:#f97316; display:block; margin-top:1rem;">View →</span></a>
+        <a class="home-nav-card home-nav-rose" href="/leadership/" style="background:linear-gradient(135deg,#fff1f2,#ffe4e6); border-top:4px solid #f43f5e; box-shadow:0 3px 12px rgba(244,63,94,0.1);"><span style="font-size:2rem; display:block; margin-bottom:0.75rem;">🤝</span><span style="font-size:1rem; font-weight:700; color:#2d1b1b; display:block; margin-bottom:0.4rem;">Leadership</span><span style="font-size:0.82rem; color:#475569; line-height:1.6; display:block;">Community roles, civic service, and governance.</span><span style="font-size:0.78rem; font-weight:700; color:#f43f5e; display:block; margin-top:1rem;">View →</span></a>
+        </div>
         </div>
 
         <!-- CONNECT CTA -->
