@@ -11,6 +11,7 @@ date: 2025-07-29
 .proj-card-purple:hover{ box-shadow: 0 16px 40px rgba(139,92,246,0.25); }
 .proj-card-orange:hover{ box-shadow: 0 16px 40px rgba(249,115,22,0.25); }
 .proj-card-rose:hover  { box-shadow: 0 16px 40px rgba(244,63,94,0.25); }
+.proj-card-kenya:hover { box-shadow: 0 16px 40px rgba(0,107,60,0.28); }
 .proj-btn { display:inline-block; font-size:0.8rem; font-weight:700; padding:0.4rem 1rem; border-radius:20px; text-decoration:none; transition: opacity 0.2s; }
 .proj-btn:hover { opacity:0.82; }
 </style>
@@ -62,6 +63,35 @@ date: 2025-07-29
     </div>
     <a class="proj-btn" href="https://github.com/josiahkim29/mlAatScale" target="_blank"
        style="background:#3b82f6; color:white;">View on GitHub →</a>
+  </div>
+
+</div>
+
+<!-- ═══════════════ CIVIC TECHNOLOGY & GOVERNANCE ═══════════════ -->
+<h2 style="font-size:1.6rem; font-weight:700; margin:0 0 0.6rem; padding-top:1rem; border-top:2px solid #f3f4f6;">Civic Technology &amp; Governance</h2>
+<p style="font-size:0.95rem; color:#6b7280; margin:0 0 1.75rem;">Independent initiatives at the intersection of technology, democracy, and public accountability.</p>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:1.75rem; margin-bottom:4rem;">
+
+  <!-- Kenya Economic Survey 2026 Digest -->
+  <div class="proj-card proj-card-kenya"
+       style="background:linear-gradient(135deg,#e8f5ee,#d4eadc); border-top:4px solid #006B3C; border-radius:16px; padding:2rem; box-shadow:0 3px 12px rgba(0,107,60,0.12);">
+    <div style="font-size:2.2rem; margin-bottom:1rem;">🇰🇪</div>
+    <h3 style="font-size:1.1rem; font-weight:700; margin:0 0 0.4rem;">Kenya Economic Survey 2026 — Digest</h3>
+    <p style="font-size:0.82rem; color:#004D2A; font-weight:600; margin:0 0 0.85rem;">Independent Civic Initiative · 2026</p>
+    <p style="font-size:0.88rem; color:#374151; line-height:1.75; margin:0 0 1.25rem;">An accessible, interactive digest of Kenya's Economic Survey 2026, distilling key economic indicators, sectoral performance, and policy insights for the public. A contribution to techno-democracy — making government data understandable and actionable for every citizen.</p>
+    <div style="display:flex; flex-wrap:wrap; gap:0.4rem; margin-bottom:1.25rem;">
+      <span style="font-size:0.72rem; font-weight:600; background:#bbf7d0; color:#004D2A; padding:0.2rem 0.55rem; border-radius:10px;">Civic Tech</span>
+      <span style="font-size:0.72rem; font-weight:600; background:#bbf7d0; color:#004D2A; padding:0.2rem 0.55rem; border-radius:10px;">Open Data</span>
+      <span style="font-size:0.72rem; font-weight:600; background:#bbf7d0; color:#004D2A; padding:0.2rem 0.55rem; border-radius:10px;">Governance</span>
+      <span style="font-size:0.72rem; font-weight:600; background:#bbf7d0; color:#004D2A; padding:0.2rem 0.55rem; border-radius:10px;">Kenya</span>
+    </div>
+    <div style="display:flex; gap:0.6rem; flex-wrap:wrap;">
+      <a class="proj-btn" href="https://josiahkim29.github.io/economicsurvey2026Digest/" target="_blank"
+         style="background:#006B3C; color:white;">View Digest →</a>
+      <a class="proj-btn" href="https://github.com/josiahkim29/economicsurvey2026Digest" target="_blank"
+         style="background:#C8951A; color:white;">GitHub →</a>
+    </div>
   </div>
 
 </div>
