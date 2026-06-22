@@ -98,7 +98,7 @@ date: 2026-06-22
           <h3 style="font-size:1rem; font-weight:700; margin:0 0 0.2rem; color:#854d0e;">Program Assistant, Leadership Development Program</h3>
           <p style="font-size:0.85rem; color:#10b981; font-weight:600; margin:0;">Emerging Leaders Foundation-Africa</p>
         </div>
-        <span style="font-size:0.72rem; font-weight:700; color:#374151; background:#f3f4f6; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;">Sep 2023 – Aug 2024</span>
+        <span style="font-size:0.72rem; font-weight:700; color:white; background:#10b981; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;">Sep 2023 – Aug 2024</span>
       </div>
       <ul style="font-size:0.88rem; color:#4b5563; line-height:1.8; margin:0; padding-left:1.25rem;">
         <li>Implemented and coordinated iLEAD Fellowship, NOW US! Awards, and St Andrews Turi Leadership Award.</li>
@@ -117,7 +117,7 @@ date: 2026-06-22
           <h3 style="font-size:1rem; font-weight:700; margin:0 0 0.2rem; color:#854d0e;">Full-Stack Software Developer</h3>
           <p style="font-size:0.85rem; color:#10b981; font-weight:600; margin:0;">Smart People Africa Limited Company</p>
         </div>
-        <span style="font-size:0.72rem; font-weight:700; color:#374151; background:#f3f4f6; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;">Nov 2020 – Aug 2023</span>
+        <span style="font-size:0.72rem; font-weight:700; color:white; background:#10b981; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;">Nov 2020 – Aug 2023</span>
       </div>
       <ul style="font-size:0.88rem; color:#4b5563; line-height:1.8; margin:0; padding-left:1.25rem;">
         <li>Developed, implemented, and upgraded the PickPay Enterprise Resource Planning (ERP) system as lead full-stack developer.</li>
@@ -136,7 +136,7 @@ date: 2026-06-22
           <h3 style="font-size:1rem; font-weight:700; margin:0 0 0.2rem; color:#854d0e;">Peer Teacher</h3>
           <p style="font-size:0.85rem; color:#10b981; font-weight:600; margin:0;">Kenswed Secondary School</p>
         </div>
-        <span style="font-size:0.72rem; font-weight:700; color:#374151; background:#f3f4f6; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;">Jul – Sep 2019</span>
+        <span style="font-size:0.72rem; font-weight:700; color:white; background:#10b981; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;">Jul 2019 – Sep 2019</span>
       </div>
       <ul style="font-size:0.88rem; color:#4b5563; line-height:1.8; margin:0; padding-left:1.25rem;">
         <li>Tutored mathematics and physics for Form 1 to Form 4 students.</li>
