@@ -26,7 +26,7 @@ Built with [Hugo](https://gohugo.io/) and the [Hugo Blox Builder](https://hugobl
 
 ## Contact
 
-- Email: josiah@aims.ac.za
+- Email: josiah.k.kimani@gmail.com
 - Twitter/X: [@Josiahk_k](https://x.com/Josiahk_k)
 - LinkedIn: [josiah-kimani](https://www.linkedin.com/in/josiah-kimani-2a059319b/)
 - GitHub: [@josiahkim29](https://github.com/josiahkim29)

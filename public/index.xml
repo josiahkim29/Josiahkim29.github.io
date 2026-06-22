@@ -13,30 +13,9 @@
     </image>
     
     <item>
-      <title>Redesigning Assessment of Mathematics Education in the AI Era</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
       <description>&lt;style&gt;
 .exp-work-item { transition: box-shadow 0.25s ease, transform 0.25s ease; }
@@ -60,7 +39,7 @@
         &lt;div style=&#34;font-size:0.75rem; color:#9ca3af; text-transform:uppercase; letter-spacing:0.1em; margin-top:0.2rem;&#34;&gt;Years Experience&lt;/div&gt;
       &lt;/div&gt;
       &lt;div&gt;
-        &lt;div style=&#34;font-size:2.4rem; font-weight:800; color:#10b981; line-height:1;&#34;&gt;3&lt;/div&gt;
+        &lt;div style=&#34;font-size:2.4rem; font-weight:800; color:#10b981; line-height:1;&#34;&gt;4+&lt;/div&gt;
         &lt;div style=&#34;font-size:0.75rem; color:#9ca3af; text-transform:uppercase; letter-spacing:0.1em; margin-top:0.2rem;&#34;&gt;Organisations&lt;/div&gt;
       &lt;/div&gt;
       &lt;div&gt;
@@ -70,7 +49,7 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div style=&#34;flex:0.85; min-width:240px; text-align:center;&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/images/josiah-graduation.jpg&#34; alt=&#34;Josiah K. Kimani at AIMS graduation&#34;
+    &lt;img src=&#34;http://localhost:1313/images/josiah-graduation.jpg&#34; alt=&#34;Josiah K. Kimani at AIMS graduation 2025&#34;
          style=&#34;max-width:100%; max-height:460px; object-fit:cover; object-position:top center; border-radius:20px; box-shadow:0 20px 50px rgba(0,0,0,0.22);&#34; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -78,13 +57,33 @@
 &lt;h2 style=&#34;font-size:1.6rem; font-weight:700; margin:0 0 2rem; padding-top:1rem; border-top:2px solid #f3f4f6;&#34;&gt;Work Experience&lt;/h2&gt;
 &lt;div style=&#34;position:relative; padding-left:2.75rem; margin-bottom:3.5rem;&#34;&gt;
   &lt;div style=&#34;position:absolute; left:0.85rem; top:0.4rem; bottom:1rem; width:2px; background:linear-gradient(to bottom, #10b981, #a7f3d0, transparent);&#34;&gt;&lt;/div&gt;
+ &lt;!-- AfriClimate AI 2026 --&gt;
+  &lt;div style=&#34;position:relative; margin-bottom:2.25rem;&#34;&gt;
+     &lt;div style=&#34;position:absolute; left:-2.1rem; top:0.35rem; width:16px; height:16px; background:#10b981; border-radius:50%; border:3px solid white; box-shadow:0 0 0 3px #10b981;&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;exp-work-item&#34; style=&#34;background:white; border:1px solid #e5e7eb; border-radius:12px; padding:1.5rem; box-shadow:0 2px 8px rgba(0,0,0,0.05);&#34;&gt;
+      &lt;div style=&#34;display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.6rem;&#34;&gt;
+        &lt;div&gt;
+          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem; color:#854d0e;&#34;&gt;Research Associate&lt;/h3&gt;
+          &lt;p style=&#34;font-size:0.85rem; color:#10b981; font-weight:600; margin:0;&#34;&gt;AfriClimate AI&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;span style=&#34;font-size:0.72rem; font-weight:700; color:white; background:#10b981; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;&#34;&gt;Feb 2026 – Present&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;ul style=&#34;font-size:0.88rem; color:#4b5563; line-height:1.8; margin:0; padding-left:1.25rem;&#34;&gt;
+        &lt;li&gt;Supporting the development of an AI-based seasonal weather forecasting model for South Africa.&lt;/li&gt;
+        &lt;li&gt;Collecting and preprocessing climate datasets.&lt;/li&gt;
+        &lt;li&gt;Designing and experimenting AI models.&lt;/li&gt;
+        &lt;li&gt;Running AI models evaluation and benchmarks.&lt;/li&gt;
+        &lt;li&gt;Contributing to reports and publications.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
   &lt;!-- ELF Africa 2025 --&gt;
   &lt;div style=&#34;position:relative; margin-bottom:2.25rem;&#34;&gt;
     &lt;div style=&#34;position:absolute; left:-2.1rem; top:0.35rem; width:16px; height:16px; background:#10b981; border-radius:50%; border:3px solid white; box-shadow:0 0 0 3px #10b981;&#34;&gt;&lt;/div&gt;
     &lt;div class=&#34;exp-work-item&#34; style=&#34;background:white; border:1px solid #e5e7eb; border-radius:12px; padding:1.5rem; box-shadow:0 2px 8px rgba(0,0,0,0.05);&#34;&gt;
       &lt;div style=&#34;display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.6rem;&#34;&gt;
         &lt;div&gt;
-          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem;&#34;&gt;Program Assistant, Leadership Development Program&lt;/h3&gt;
+          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem;color:#854d0e;&#34;&gt;Program Assistant, Leadership Development Program&lt;/h3&gt;
           &lt;p style=&#34;font-size:0.85rem; color:#10b981; font-weight:600; margin:0;&#34;&gt;Emerging Leaders Foundation-Africa&lt;/p&gt;
         &lt;/div&gt;
         &lt;span style=&#34;font-size:0.72rem; font-weight:700; color:white; background:#10b981; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;&#34;&gt;Sep 2025 – Jan 2026&lt;/span&gt;
@@ -102,7 +101,7 @@
     &lt;div class=&#34;exp-work-item&#34; style=&#34;background:white; border:1px solid #e5e7eb; border-radius:12px; padding:1.5rem; box-shadow:0 2px 8px rgba(0,0,0,0.05);&#34;&gt;
       &lt;div style=&#34;display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.6rem;&#34;&gt;
         &lt;div&gt;
-          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem;&#34;&gt;Program Assistant, Leadership Development Program&lt;/h3&gt;
+          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem; color:#854d0e;&#34;&gt;Program Assistant, Leadership Development Program&lt;/h3&gt;
           &lt;p style=&#34;font-size:0.85rem; color:#10b981; font-weight:600; margin:0;&#34;&gt;Emerging Leaders Foundation-Africa&lt;/p&gt;
         &lt;/div&gt;
         &lt;span style=&#34;font-size:0.72rem; font-weight:700; color:#374151; background:#f3f4f6; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;&#34;&gt;Sep 2023 – Aug 2024&lt;/span&gt;
@@ -120,7 +119,7 @@
     &lt;div class=&#34;exp-work-item&#34; style=&#34;background:white; border:1px solid #e5e7eb; border-radius:12px; padding:1.5rem; box-shadow:0 2px 8px rgba(0,0,0,0.05);&#34;&gt;
       &lt;div style=&#34;display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.6rem;&#34;&gt;
         &lt;div&gt;
-          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem;&#34;&gt;Full-Stack Software Developer&lt;/h3&gt;
+          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem; color:#854d0e;&#34;&gt;Full-Stack Software Developer&lt;/h3&gt;
           &lt;p style=&#34;font-size:0.85rem; color:#10b981; font-weight:600; margin:0;&#34;&gt;Smart People Africa Limited Company&lt;/p&gt;
         &lt;/div&gt;
         &lt;span style=&#34;font-size:0.72rem; font-weight:700; color:#374151; background:#f3f4f6; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;&#34;&gt;Nov 2020 – Aug 2023&lt;/span&gt;
@@ -138,7 +137,7 @@
     &lt;div class=&#34;exp-work-item&#34; style=&#34;background:white; border:1px solid #e5e7eb; border-radius:12px; padding:1.5rem; box-shadow:0 2px 8px rgba(0,0,0,0.05);&#34;&gt;
       &lt;div style=&#34;display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.6rem;&#34;&gt;
         &lt;div&gt;
-          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem;&#34;&gt;Peer Teacher&lt;/h3&gt;
+          &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.2rem; color:#854d0e;&#34;&gt;Peer Teacher&lt;/h3&gt;
           &lt;p style=&#34;font-size:0.85rem; color:#10b981; font-weight:600; margin:0;&#34;&gt;Kenswed Secondary School&lt;/p&gt;
         &lt;/div&gt;
         &lt;span style=&#34;font-size:0.72rem; font-weight:700; color:#374151; background:#f3f4f6; padding:0.22rem 0.75rem; border-radius:20px; white-space:nowrap;&#34;&gt;Jul – Sep 2019&lt;/span&gt;
@@ -156,14 +155,14 @@
 &lt;div style=&#34;display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:1.5rem; margin-bottom:3.5rem;&#34;&gt;
   &lt;div class=&#34;exp-edu-card&#34; style=&#34;background:linear-gradient(135deg,#f0fdf4,#dcfce7); border-left:4px solid #10b981; border-radius:14px; padding:1.75rem; box-shadow:0 2px 10px rgba(16,185,129,0.12);&#34;&gt;
     &lt;span style=&#34;display:inline-block; background:#10b981; color:white; font-size:0.7rem; font-weight:700; padding:0.22rem 0.65rem; border-radius:20px; margin-bottom:1rem;&#34;&gt;2024 – 2025&lt;/span&gt;
-    &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.35rem;&#34;&gt;MSc Mathematical Sciences&lt;/h3&gt;
+    &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.35rem; color:#854d0e;&#34;&gt;MSc Mathematical Sciences&lt;/h3&gt;
     &lt;p style=&#34;font-size:0.82rem; font-weight:600; color:#065f46; margin:0 0 0.5rem;&#34;&gt;Specialising in AI for Science&lt;/p&gt;
     &lt;p style=&#34;font-size:0.85rem; color:#374151; margin:0 0 0.9rem;&#34;&gt;AIMS South Africa &amp;amp; Stellenbosch University&lt;/p&gt;
     &lt;span style=&#34;font-size:0.78rem; background:#bbf7d0; color:#065f46; font-weight:700; padding:0.2rem 0.65rem; border-radius:12px;&#34;&gt;Cum Laude&lt;/span&gt;
   &lt;/div&gt;
   &lt;div class=&#34;exp-edu-card&#34; style=&#34;background:linear-gradient(135deg,#eff6ff,#dbeafe); border-left:4px solid #3b82f6; border-radius:14px; padding:1.75rem; box-shadow:0 2px 10px rgba(59,130,246,0.12);&#34;&gt;
     &lt;span style=&#34;display:inline-block; background:#3b82f6; color:white; font-size:0.7rem; font-weight:700; padding:0.22rem 0.65rem; border-radius:20px; margin-bottom:1rem;&#34;&gt;2016 – 2021&lt;/span&gt;
-    &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.35rem;&#34;&gt;BSc Mathematical Sciences with I.T.&lt;/h3&gt;
+    &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.35rem; color:#854d0e;&#34;&gt;BSc Mathematical Sciences with I.T.&lt;/h3&gt;
     &lt;p style=&#34;font-size:0.82rem; font-weight:600; color:#1e40af; margin:0 0 0.5rem;&#34;&gt;Pure &amp;amp; Applied Mathematics, Statistics, IT&lt;/p&gt;
     &lt;p style=&#34;font-size:0.85rem; color:#374151; margin:0 0 0.9rem;&#34;&gt;Maseno University, Kisumu, Kenya&lt;/p&gt;
     &lt;span style=&#34;font-size:0.78rem; background:#bfdbfe; color:#1e40af; font-weight:700; padding:0.2rem 0.65rem; border-radius:12px;&#34;&gt;First Class Honours · GPA 3.8/4.0&lt;/span&gt;
@@ -186,13 +185,13 @@
 &lt;div style=&#34;display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:1.5rem; margin-bottom:3.5rem;&#34;&gt;
   &lt;div class=&#34;exp-award-card&#34; style=&#34;background:linear-gradient(135deg,#fefce8,#fef9c3); border-left:4px solid #eab308; border-radius:14px; padding:1.75rem; box-shadow:0 2px 10px rgba(234,179,8,0.15);&#34;&gt;
     &lt;span style=&#34;font-size:1.8rem; display:block; margin-bottom:0.75rem;&#34;&gt;🏆&lt;/span&gt;
-    &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.35rem;&#34;&gt;Google DeepMind Scholarship&lt;/h3&gt;
+    &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.35rem; color:#065f46;&#34;&gt;Google DeepMind Scholarship&lt;/h3&gt;
     &lt;p style=&#34;font-size:0.82rem; color:#854d0e; font-weight:600; margin:0 0 0.6rem;&#34;&gt;2024 – 2025&lt;/p&gt;
     &lt;p style=&#34;font-size:0.88rem; color:#374151; line-height:1.7; margin:0;&#34;&gt;Awarded for the MSc programme at AIMS South Africa, recognising academic excellence and research potential in AI for Science.&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&#34;exp-award-card&#34; style=&#34;background:linear-gradient(135deg,#f0fdf4,#dcfce7); border-left:4px solid #10b981; border-radius:14px; padding:1.75rem; box-shadow:0 2px 10px rgba(16,185,129,0.12);&#34;&gt;
     &lt;span style=&#34;font-size:1.8rem; display:block; margin-bottom:0.75rem;&#34;&gt;🎓&lt;/span&gt;
-    &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.35rem;&#34;&gt;iLEAD Fellowship — Cohort 9&lt;/h3&gt;
+    &lt;h3 style=&#34;font-size:1rem; font-weight:700; margin:0 0 0.35rem; color:#854d0e;&#34;&gt;iLEAD Fellowship — Cohort 9&lt;/h3&gt;
     &lt;p style=&#34;font-size:0.82rem; color:#065f46; font-weight:600; margin:0 0 0.6rem;&#34;&gt;February 2023&lt;/p&gt;
     &lt;p style=&#34;font-size:0.88rem; color:#374151; line-height:1.7; margin:0;&#34;&gt;Certificate of Completion from the Emerging Leaders Foundation-Africa structured leadership development programme.&lt;/p&gt;
   &lt;/div&gt;
@@ -215,6 +214,27 @@
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Redesigning Assessment of Mathematics Education in the AI Era</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -368,6 +388,7 @@
 .proj-card-purple:hover{ box-shadow: 0 16px 40px rgba(139,92,246,0.25); }
 .proj-card-orange:hover{ box-shadow: 0 16px 40px rgba(249,115,22,0.25); }
 .proj-card-rose:hover  { box-shadow: 0 16px 40px rgba(244,63,94,0.25); }
+.proj-card-kenya:hover { box-shadow: 0 16px 40px rgba(0,107,60,0.28); }
 .proj-btn { display:inline-block; font-size:0.8rem; font-weight:700; padding:0.4rem 1rem; border-radius:20px; text-decoration:none; transition: opacity 0.2s; }
 .proj-btn:hover { opacity:0.82; }
 &lt;/style&gt;
@@ -414,6 +435,31 @@
     &lt;/div&gt;
     &lt;a class=&#34;proj-btn&#34; href=&#34;https://github.com/josiahkim29/mlAatScale&#34; target=&#34;_blank&#34;
        style=&#34;background:#3b82f6; color:white;&#34;&gt;View on GitHub →&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- ═══════════════ CIVIC TECHNOLOGY &amp; GOVERNANCE ═══════════════ --&gt;
+&lt;h2 style=&#34;font-size:1.6rem; font-weight:700; margin:0 0 0.6rem; padding-top:1rem; border-top:2px solid #f3f4f6;&#34;&gt;Civic Technology &amp;amp; Governance&lt;/h2&gt;
+&lt;p style=&#34;font-size:0.95rem; color:#6b7280; margin:0 0 1.75rem;&#34;&gt;Independent initiatives at the intersection of technology, democracy, and public accountability.&lt;/p&gt;
+&lt;div style=&#34;display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:1.75rem; margin-bottom:4rem;&#34;&gt;
+  &lt;!-- Kenya Economic Survey 2026 Digest --&gt;
+  &lt;div class=&#34;proj-card proj-card-kenya&#34;
+       style=&#34;background:linear-gradient(135deg,#e8f5ee,#d4eadc); border-top:4px solid #006B3C; border-radius:16px; padding:2rem; box-shadow:0 3px 12px rgba(0,107,60,0.12);&#34;&gt;
+    &lt;div style=&#34;font-size:2.2rem; margin-bottom:1rem;&#34;&gt;🇰🇪&lt;/div&gt;
+    &lt;h3 style=&#34;font-size:1.1rem; font-weight:700; margin:0 0 0.4rem;&#34;&gt;Kenya Economic Survey 2026 — Digest&lt;/h3&gt;
+    &lt;p style=&#34;font-size:0.82rem; color:#004D2A; font-weight:600; margin:0 0 0.85rem;&#34;&gt;Independent Civic Initiative · 2026&lt;/p&gt;
+    &lt;p style=&#34;font-size:0.88rem; color:#374151; line-height:1.75; margin:0 0 1.25rem;&#34;&gt;An accessible, interactive digest of Kenya&#39;s Economic Survey 2026, distilling key economic indicators, sectoral performance, and policy insights for the public. A contribution to techno-democracy — making government data understandable and actionable for every citizen.&lt;/p&gt;
+    &lt;div style=&#34;display:flex; flex-wrap:wrap; gap:0.4rem; margin-bottom:1.25rem;&#34;&gt;
+      &lt;span style=&#34;font-size:0.72rem; font-weight:600; background:#bbf7d0; color:#004D2A; padding:0.2rem 0.55rem; border-radius:10px;&#34;&gt;Civic Tech&lt;/span&gt;
+      &lt;span style=&#34;font-size:0.72rem; font-weight:600; background:#bbf7d0; color:#004D2A; padding:0.2rem 0.55rem; border-radius:10px;&#34;&gt;Open Data&lt;/span&gt;
+      &lt;span style=&#34;font-size:0.72rem; font-weight:600; background:#bbf7d0; color:#004D2A; padding:0.2rem 0.55rem; border-radius:10px;&#34;&gt;Governance&lt;/span&gt;
+      &lt;span style=&#34;font-size:0.72rem; font-weight:600; background:#bbf7d0; color:#004D2A; padding:0.2rem 0.55rem; border-radius:10px;&#34;&gt;Kenya&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;display:flex; gap:0.6rem; flex-wrap:wrap;&#34;&gt;
+      &lt;a class=&#34;proj-btn&#34; href=&#34;https://josiahkim29.github.io/economicsurvey2026Digest/&#34; target=&#34;_blank&#34;
+         style=&#34;background:#006B3C; color:white;&#34;&gt;View Digest →&lt;/a&gt;
+      &lt;a class=&#34;proj-btn&#34; href=&#34;https://github.com/josiahkim29/economicsurvey2026Digest&#34; target=&#34;_blank&#34;
+         style=&#34;background:#C8951A; color:white;&#34;&gt;GitHub →&lt;/a&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- ═══════════════ TOOLS &amp; FRAMEWORKS ═══════════════ --&gt;
@@ -1001,7 +1047,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-897241563&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-869251734&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -1019,7 +1065,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-897241563&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-869251734&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
