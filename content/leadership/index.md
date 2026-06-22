@@ -30,7 +30,7 @@ date: 2025-07-29
     <p style="font-size:0.8rem; font-weight:700; color:#10b981; text-transform:uppercase; letter-spacing:0.14em; margin:0 0 0.75rem;">Community · Service · Impact</p>
     <h1 style="font-size:2.6rem; font-weight:800; line-height:1.15; margin:0 0 1.2rem;">Leadership is about lifting others as you climb.</h1>
     <p style="font-size:1.05rem; color:#6b7280; line-height:1.8; margin:0 0 2rem;">
-      From student government to community organisations, I have consistently stepped into roles that demand accountability, initiative, and a heart for people — not for titles, but for service.
+      From educational institutions to community organisations, I have consistently stepped into roles that demand accountability, initiative, and a heart for people — not for titles, but for service.
     </p>
     <div style="display:flex; gap:3rem;">
       <div>
