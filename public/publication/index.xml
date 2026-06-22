@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Josiah K. Kimani</title>
-    <link>https://josiahkim29.github.io/publication/</link>
-      <atom:link href="https://josiahkim29.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55439/publication/</link>
+      <atom:link href="http://localhost:55439/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josiahkim29.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:55439/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>https://josiahkim29.github.io/publication/</link>
+      <link>http://localhost:55439/publication/</link>
     </image>
     
     <item>
       <title>Redesigning Assessment of Mathematics Education in the AI Era</title>
-      <link>https://josiahkim29.github.io/publication/conference-paper/</link>
+      <link>http://localhost:55439/publication/conference-paper/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://josiahkim29.github.io/publication/conference-paper/</guid>
+      <guid>http://localhost:55439/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>PiggyCast: Improving Weather Prediction Accuracy through a Stacking-Based Ensemble AI Approach</title>
-      <link>https://josiahkim29.github.io/publication/preprint/</link>
+      <link>http://localhost:55439/publication/preprint/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://josiahkim29.github.io/publication/preprint/</guid>
+      <guid>http://localhost:55439/publication/preprint/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -62,9 +62,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title></title>
-      <link>https://josiahkim29.github.io/publication/journal-article/</link>
+      <link>http://localhost:55439/publication/journal-article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://josiahkim29.github.io/publication/journal-article/</guid>
+      <guid>http://localhost:55439/publication/journal-article/</guid>
       <description>&lt;!-- ---
 title: &#34;An example journal article&#34;
 authors:

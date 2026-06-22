@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence in Climate Science | Josiah K. Kimani</title>
-    <link>https://josiahkim29.github.io/tags/artificial-intelligence-in-climate-science/</link>
-      <atom:link href="https://josiahkim29.github.io/tags/artificial-intelligence-in-climate-science/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55439/tags/artificial-intelligence-in-climate-science/</link>
+      <atom:link href="http://localhost:55439/tags/artificial-intelligence-in-climate-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence in Climate Science</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://josiahkim29.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:55439/media/icon_hu7729264130191091259.png</url>
       <title>Artificial Intelligence in Climate Science</title>
-      <link>https://josiahkim29.github.io/tags/artificial-intelligence-in-climate-science/</link>
+      <link>http://localhost:55439/tags/artificial-intelligence-in-climate-science/</link>
     </image>
     
     <item>
       <title>PiggyCast: Improving Weather Prediction Accuracy through a Stacking-Based Ensemble AI Approach</title>
-      <link>https://josiahkim29.github.io/publication/preprint/</link>
+      <link>http://localhost:55439/publication/preprint/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://josiahkim29.github.io/publication/preprint/</guid>
+      <guid>http://localhost:55439/publication/preprint/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 

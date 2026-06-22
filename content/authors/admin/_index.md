@@ -124,6 +124,18 @@ work:
 
   - position: Program Assistant, Leadership Development Program(LDP)
     company_name: Emerging Leaders Foundation-Africa
+    company_url: https://elfafrica.org
+    company_logo: /assets/media/icons/ELF_New_LOGO-1.png
+    date_start: 2025-09-01
+    date_end: 2026-01-31
+    summary: |
+      Responsibilities include:
+      - Implementating the iLEAD Fellowship Program (Cohort 12).
+      - Providing personalised support in AI-powered learning tools to complement the training curricula for the LDP department and other departments.
+      - Providing personalised support in software, AI, and data engineering to enhance the organisation’s ICT infrastructure and support SMART decision-making.
+
+  - position: Program Assistant, Leadership Development Program(LDP)
+    company_name: Emerging Leaders Foundation-Africa
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
